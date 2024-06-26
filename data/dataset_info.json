@@ -1,4 +1,13 @@
 {
+  "cbc": {
+    "file_name": "cbc.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
   "identity": {
     "file_name": "identity.json"
   },
